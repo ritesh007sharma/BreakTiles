@@ -1,1 +1,2 @@
-# 2d-Shooter-Game
+# Breaktile game developed using Java, JFrame. 
+# To play run main.
